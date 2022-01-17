@@ -1,0 +1,101 @@
+- name: Stéphane Kéna-Cohen
+  photo: Kena-Cohen-Headshot small.png
+  info: Associate professor (Engineering Physics), started Jan 2014
+  email: s.kena-cohen@polymtl.ca
+  number_educ: 4
+  education1: BEng Electrical Engineering (Honours), McGill University, minor in Physics
+  education2: PhD Princeton University (and visiting scholar at the University of Michigan) with <a href="http://websites.umich.edu/~ocm/People%20pages/stevefor.html">Stephen R Forrest</a>
+  education3: Postdoc and <a href="https://www.imperial.ac.uk/research-fellowships/icrf/">Junior Research Fellow</a> at Imperial College London
+  education4: with Stefan A. Maier (now @LMU) and Donal DC Bradley (now @KAUST)
+
+- name: Félix Thouin
+  photo: thouin.jpg
+  info: Postdoc, started Jan 2021
+  email: felix.thouin@polymtl.ca
+  number_educ: 2
+  education1: PhD with <a href="https://physics.gatech.edu/user/carlos-silva">Carlos Silva</a>, Georgia Tech
+  education2: B.S. Université de Montréal
+
+- name: Ashutosh Patri
+  photo: patri.jpg
+  info: PhD Student, started Winter 2018
+  email: ashutosh.patri@polymtl.ca
+  number_educ: 2
+  education1: Bachelor
+  education2: Master
+  education3:
+
+- name: Alexandre Malinge
+  photo: malinge.jpg
+  info: PhD Student, started September 2018
+  email: alexandre.malinge@polymtl.ca
+  number_educ: 2
+  education1: Bachelor Chimie ParisTech
+  education2: Masters Polytechnique Montreal
+  education3:
+  education4:
+
+- name: Louis Haeberlé
+  photo: louis.jpg
+  info: PhD Student, started November 2018
+  email: louis.haeberle@polymtl.ca
+  number_educ: 2
+  education1: Bachelor (Physics) Université de Sherbrooke
+  education2: Masters (Physics) Université de Sherbrooke
+  education3:
+  education4:
+
+- name: Orlando Ortiz
+  photo: nophoto.jpg
+  info: PhD Student, started September 2019
+  email: orlando.ortiz@polymtl.ca
+  number_educ: 2
+  education1: Bachelors (Chemistry) University of Havana
+  education2: Masters (Chemistry) University of Havana
+  education3:
+  education4:
+
+- name: Pierre-Luc Thériault
+  photo: pierreluc.png
+  info: PhD Student, started September 2021
+  email: pierre-luc.theriault@polymtl.ca
+  number_educ: 2
+  education1: BSc, Polytechnique Montréal
+  education2: Trottier Energy Scholarship
+  education3: CGS and FRQNT Scholarships
+  education4:
+
+- name: Julien Brodeur
+  photo: photo_JB.jpg
+  info: PhD Student
+  email: julien.brodeur@polymtl.ca
+  number_educ: 2
+  education1: BSc and MSc, Polytechnique Montréal
+  education2: NSERC Alexander Graham Bell Fellowship
+
+- name: Soufiane Kaghdad
+  photo: nophoto.jpg
+  info: MSc Double Diploma
+  email: soufiane.kaghdad@polymtl.ca
+  number_educ: 2
+  education1: BSc Ecole Polytechnique (Paris)
+  education2: QSciTech participant
+
+- name: Tomohiro Ishii
+  photo: nophoto.jpg
+  info: Visitor/collaborator, currently PhD student in the <a href="http://www.cstf.kyushu-u.ac.jp/~adachilab/lab/">Adachi Lab</a>
+  email: ishii@adachilab.com
+  number_educ: 2
+  education1: BSc
+  education2: MSc Kyushu University
+
+
+- name: "This could be you !"
+  photo: nophoto.jpg
+  info: See <a href="http://skenac.github.io/vacancies">openings</a> for more info
+  email: s.kena-cohen@polymtl.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
