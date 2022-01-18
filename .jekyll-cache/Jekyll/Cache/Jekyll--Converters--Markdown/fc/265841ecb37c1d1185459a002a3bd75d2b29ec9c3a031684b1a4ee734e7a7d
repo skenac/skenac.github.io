@@ -1,0 +1,16 @@
+I"<h1 id="research">Research</h1>
+
+<p>Our research lies at the interface between semiconductor physics, photonics and quantum optics. It is driven by a desire to understand the microscopic processes that take place in optical materials, with the aim of using them in state-of-the-art optoelectronic devices. <em>Sometimes though we are just happy discovering funky new physics!</em> In the group, we fabricate most of our own samples, build experimental setups to measure their properties and make complete devices that we can test. Our areas of interest are always evolving, but here are a few things that we are working on at the moment.</p>
+
+<p><strong>Strong light-matter coupling.</strong> A longstanding research area in the group has been the regime of strong light-matter coupling. When some form of optical excitation (such as exciton) interacts strongly enough with a mode of the electromagnetic field, new quasiparticles called polaritons can form. These polaritons are <em>part-light, part-matter</em> that share some properties from both. Because they are bosons, they can form Bose-Einstein condensates–even at room-temperature. Lattices of these condensates can be used for quantum simulation, and single condensates can be used as low-threshold lasers. One current challenge, when organic materials are used, is to lower the lasing threshold sufficiently so that condensates can be realized with cheap laser diodes. Another area we are exploring is to better understand how strong coupling can change the underlying properties of molecules themselves. Can phenomena such as conductivity, interesystem crossing, exciton dissociation be changed simply by changing the optical environment around the molecule? This could have important repercussion for many types of organic optoelectronic devices.</p>
+
+<p><strong>Organic light-emitting diodes and organic lasers.</strong> Organic light-emitting diodes (OLEDs) are now routinely found in mobile displays and high end televisions, but the technology still faces several challenges for other applications. OLED efficiencies plummet in the UV and near-infrared. We recently demonstrated the feasibility of using thermally-assisted delayed fluorescence to achieve high quantum efficiencies at 840 nm. However, strategies for pushing this further are lacking. In addition, the efficiency tends to drop drastically at high current densities, which prevents us from running devices at very high brightness. Most of the mechanisms responsible for this are known, but strategies for drastically improving roll-off are lacking. Finally, organic lasers are easy to fabricate, cheap and easily tunable. However organic lasers tend to only work when pumped with intense short pulses of light. One of the major culprits is the presence of triplet excited-states, but the thermal stability of materials is also an issue. We are trying to develop triplet management strategies to allow for continuous operation of organic lasers at low powers, and hopefully under electrical injection.</p>
+
+<p><strong>Mid-infrared devices based on 2D black phosphorus</strong> 2D materials like graphene have shown amazing promise</p>
+
+<p><strong>Optical antennas and optical nonlinearities</strong>.</p>
+
+<p><strong>Photophysics of novel materials</strong></p>
+
+<h3 id="-and-more">… and more.</h3>
+:ET

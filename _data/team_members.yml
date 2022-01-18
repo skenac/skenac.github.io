@@ -1,12 +1,11 @@
 - name: Stéphane Kéna-Cohen
-  photo: Kena-Cohen-Headshot small.png
+  photo: kenacohen.png
   info: Associate professor (Engineering Physics), started Jan 2014
   email: s.kena-cohen@polymtl.ca
-  number_educ: 4
+  number_educ: 3
   education1: BEng Electrical Engineering (Honours), McGill University, minor in Physics
   education2: PhD Princeton University (and visiting scholar at the University of Michigan) with <a href="http://websites.umich.edu/~ocm/People%20pages/stevefor.html">Stephen R Forrest</a>
-  education3: Postdoc and <a href="https://www.imperial.ac.uk/research-fellowships/icrf/">Junior Research Fellow</a> at Imperial College London
-  education4: with Stefan A. Maier (now @LMU) and Donal DC Bradley (now @KAUST)
+  education3: Postdoc and <a href="https://www.imperial.ac.uk/research-fellowships/icrf/">Junior Research Fellow</a> at Imperial College London with <a href="https://www.hybridplasmonics.org">Stefan A. Maier</a> (now @LMU) and Donal DC Bradley (now @KAUST)
 
 - name: Félix Thouin
   photo: thouin.jpg
@@ -73,10 +72,10 @@
   education1: BSc and MSc, Polytechnique Montréal
   education2: NSERC Alexander Graham Bell Fellowship
 
-- name: Soufiane Kaghdad
-  photo: nophoto.jpg
+- name: Soufiane Kaghad
+  photo: soufiane.png
   info: MSc Double Diploma
-  email: soufiane.kaghdad@polymtl.ca
+  email: soufiane.kaghad@polymtl.ca
   number_educ: 2
   education1: BSc Ecole Polytechnique (Paris)
   education2: QSciTech participant

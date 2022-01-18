@@ -10,7 +10,7 @@ permalink: /
 </figure>
 If you are curious and enjoy a healthy dose of photonics, materials science and solid-state physics, then you have come to the right place. We are a research group in the department of Engineering Physics at [Polytechnique Montréal](http://www.polymtl.ca) . In the Light-Matter Group, we study the physics of optoelectronic materials and use what we learn to design state-of-the-art devices. Our group members make world-record efficiency optoelectronic devices such as light-emitting diodes and solar cells, but also more exotic quantum devices such as polariton (light-matter!) lasers and single-photon sources.
 
-Our work often involves understanding how new materials interact with light and building tiny optical structures that can tune this interaction. For this, we use advanced spectroscopic techniques (fast lasers!) and a range of nanofabrication tools to make really small stuff. You can check out our equipment at [Infrastructure](infrastructure) and learn more about some of our [Research](research)). We are lucky to collaborate with excellent groups both locally [Francoeur, Martinu, Skene, Seletskiy, Moutanabbir] and internationally [Arnold, Rand, Sanvitto, Menon, Yuen-Zhou] who help us make much of this work possible.
+Our work often involves understanding how new materials interact with light and building tiny optical structures that can tune this interaction. For this, we use advanced spectroscopic techniques (fast lasers!) and a range of nanofabrication tools to make really small stuff. You can check out our equipment at [Infrastructure](infrastructure) and learn more about some of our [Research](research)). We are lucky to collaborate with excellent groups both locally [e.g. [Francoeur](https://www.polymtl.ca/expertises/en/francoeur-sebastien), [Martinu](https://www.polymtl.ca/larfis/), [Skene](http://www.mapageweb.umontreal.ca/skenew/), [Seletskiy](https://femtoq.science), [Moutanabbir](https://www.polymtl.ca/nhl/en)] and internationally [e.g. [Arnold](https://arnold.engr.wisc.edu/about.html), [Rand](http://faculty.ee.princeton.edu/brand/), [Sanvitto](https://polaritonics.nanotec.cnr.it), [Menon](http://lanmp.org), [Yuen-Zhou](http://yuenzhougroup.ucsd.edu)], who help us make much of this work possible.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -67,7 +67,7 @@ We are members of two indersciplinary strategic groups in Québec, [the Regroupe
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intriq.png" style="width: 180px">
    </div>
 </div>
-We are also very grateful for continued funding from the Natural Sciences and Engineering Council of Canada, the Canada Resarch Chairs, the Canada Foundation for Innovation and the Fonds de Recherche Québécois Nature et Technolgies. Previous research was also supported by the Army Research Office, the Department of National Defense and the Samsung Global Research Office.
+We are also very grateful for continued funding from the Natural Sciences and Engineering Council of Canada, the Canada Research Chairs, the Canada Foundation for Innovation and the Fonds de Recherche Québécois Nature et Technolgies. Previous research was also supported by the Army Research Office, the Department of National Defense and the Samsung Global Research Office.
 <div class="row">
   <div class="col-sm-4">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI-Logo.png" style="width: 140px">
