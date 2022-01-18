@@ -26,22 +26,22 @@ Our work often involves understanding how new materials interact with light and 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">        
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CavityImage.jpg" class="d-block w-100" style="height:250px" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CavityImage.jpg" style="height:250px" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo_poly_oled.png" class="d-block w-100" style="height:250px" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo_poly_oled.png" style="height:250px" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Anthracene.png" class="d-block w-100" style="height:250px" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Anthracene.png" style="height:250px" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/malinge.jpg"  class="d-block w-100" style="height:250px" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/malinge.jpg" style="height:250px" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bbq.jpg"  class="d-block w-100" style="height:250px" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bbq.jpg" style="height:250px" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/superfluid_press.png" class="d-block w-100" style="height:250px" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/superfluid_press.png" style="height:250px" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">

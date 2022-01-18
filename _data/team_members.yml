@@ -46,7 +46,7 @@
   education4:
 
 - name: Orlando Ortiz
-  photo: nophoto.jpg
+  photo: orlando.jpg
   info: PhD Student, started September 2019
   email: orlando.ortiz@polymtl.ca
   number_educ: 2
@@ -82,12 +82,13 @@
   education2: QSciTech participant
 
 - name: Tomohiro Ishii
-  photo: nophoto.jpg
+  photo: tomohiro.jpg
   info: Visitor/collaborator, currently PhD student in the <a href="http://www.cstf.kyushu-u.ac.jp/~adachilab/lab/">Adachi Lab</a>
   email: ishii@adachilab.com
   number_educ: 2
-  education1: BSc
-  education2: MSc Kyushu University
+  education1: BSc Aoyama University
+  education2: MSc Kyoto University
+  education3: PhD Kyushu University
 
 
 - name: "This could be you !"

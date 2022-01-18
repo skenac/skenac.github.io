@@ -1,5 +1,5 @@
-I"�<figure>
-  <p><img src="/images/banner.jpg" class="center" /></p>
+I"%<figure>
+  <p><img src="www.light-matter.ca/images/banner.jpg" class="center" /></p>
 </figure>
 <p>If you are curious and enjoy a healthy dose of photonics, materials science and solid-state physics, then you have come to the right place. We are a research group in the department of Engineering Physics at <a href="http://www.polymtl.ca">Polytechnique Montréal</a> . In the Light-Matter Group, we study the physics of optoelectronic materials and use what we learn to design state-of-the-art devices. Our group members make world-record efficiency optoelectronic devices such as light-emitting diodes and solar cells, but also more exotic quantum devices such as polariton (light-matter!) lasers and single-photon sources.</p>
 
@@ -19,22 +19,22 @@
     <!-- Items -->
     <div class="carousel-inner">
         <div class="item active">        
-            <img src="/images/slider7001400/CavityImage.jpg" class="d-block w-100" style="height:250px" alt="Slide 1" />
+            <img src="www.light-matter.ca/images/slider7001400/CavityImage.jpg" style="height:250px" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/logo_poly_oled.png" class="d-block w-100" style="height:250px" alt="Slide 2" />
+            <img src="www.light-matter.ca/images/slider7001400/logo_poly_oled.png" style="height:250px" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/Anthracene.png" class="d-block w-100" style="height:250px" alt="Slide 3" />
+            <img src="www.light-matter.ca/images/slider7001400/Anthracene.png" style="height:250px" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/malinge.jpg" class="d-block w-100" style="height:250px" alt="Slide 4" />
+            <img src="www.light-matter.ca/images/slider7001400/malinge.jpg" style="height:250px" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/bbq.jpg" class="d-block w-100" style="height:250px" alt="Slide 5" />
+            <img src="www.light-matter.ca/images/slider7001400/bbq.jpg" style="height:250px" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="/images/slider7001400/superfluid_press.png" class="d-block w-100" style="height:250px" alt="Slide 6" />
+            <img src="www.light-matter.ca/images/slider7001400/superfluid_press.png" style="height:250px" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -49,27 +49,27 @@
 <p><br />
 The group is based at Polytechnique Montréal, one of Canada’s top engineering research universities and led by <a href="https://www.polymtl.ca/phys/en/stephane-kena-cohen">Prof. Stéphane Kéna-Cohen</a>.</p>
 
-<p><strong>We are always looking for passionate new PhD students, Postdocs, and Master students to join the team.</strong> <a href="/vacancies">(more info)</a> <strong>!</strong> Prospective students: For many years now, Montréal has been <a href="https://www.topuniversities.com/student-info/university-news/montreal-named-worlds-best-student-city">ranked by QS as the World’s best student city</a>.</p>
+<p><strong>We are always looking for passionate new PhD students, Postdocs, and Master students to join the team.</strong> <a href="www.light-matter.ca/vacancies">(more info)</a> <strong>!</strong> Prospective students: For many years now, Montréal has been <a href="https://www.topuniversities.com/student-info/university-news/montreal-named-worlds-best-student-city">ranked by QS as the World’s best student city</a>.</p>
 
 <p>We are members of two indersciplinary strategic groups in Québec, <a href="https://www.rqmp.ca">the Regroupement Québécois sur les Matériaux de Pointe (RQMP)</a> and the <a href="https://www.intriq.org">Institut Transdisciplinaire d’Information Quantique (INTRIQ)</a>.</p>
 <div class="row">
   <div class="col-sm-6">
-    <p><img src="/images/logopic/rqmp.png" style="width: 180px" /></p>
+    <p><img src="www.light-matter.ca/images/logopic/rqmp.png" style="width: 180px" /></p>
   </div>
   <div class="col-sm-6">
-    <p><img src="/images/logopic/intriq.png" style="width: 180px" /></p>
+    <p><img src="www.light-matter.ca/images/logopic/intriq.png" style="width: 180px" /></p>
   </div>
 </div>
 <p>We are also very grateful for continued funding from the Natural Sciences and Engineering Council of Canada, the Canada Resarch Chairs, the Canada Foundation for Innovation and the Fonds de Recherche Québécois Nature et Technolgies. Previous research was also supported by the Army Research Office, the Department of National Defense and the Samsung Global Research Office.</p>
 <div class="row">
   <div class="col-sm-4">
-    <p><img src="/images/logopic/CFI-Logo.png" style="width: 140px" /></p>
+    <p><img src="www.light-matter.ca/images/logopic/CFI-Logo.png" style="width: 140px" /></p>
   </div>
   <div class="col-sm-4">
-    <p><img src="/images/logopic/logoCrC.png" style="width: 140px" /></p>
+    <p><img src="www.light-matter.ca/images/logopic/logoCrC.png" style="width: 140px" /></p>
   </div>
   <div class="col-sm-4">
-    <p><img src="/images/logopic/FRQNT_RGB(multimedia-transparent).png" style="width: 140px" /></p>
+    <p><img src="www.light-matter.ca/images/logopic/FRQNT_RGB(multimedia-transparent).png" style="width: 140px" /></p>
   </div>
 </div>
 :ET
