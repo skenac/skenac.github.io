@@ -1,0 +1,84 @@
+I"�<h1 id="infrastructure">Infrastructure</h1>
+
+<h2 id="fabrication-equipment">Fabrication equipment</h2>
+
+<p>Jump to <a href="#thermal-evaporator">Thermal Evaporator</a>, <a href="#glovebox">Glovebox</a>, <a href="#uhv-deposition-cluster">UHV Deposition Cluster</a>, <a href="#gradient-sublimation-purification-setup">Purification furnace</a>, <a href="#synthesis-hood">Synthesis fume hood</a>, <a href="#langmuir-blodgett">Langmuir-Blodgett trough</a>.</p>
+
+<h2 id="characterization-equipment">Characterization equipment</h2>
+
+<p>Jump to <a href="#ultrafast-spectroscopy">Ultrafast spectroscopy</a>, <a href="#microscope">Microscope</a>, <a href="#oled-testing-setup">OLED testing</a>, <a href="#solar-cell-testing-setup">Solar cell testing</a>, <a href="#spectrophotometer">UV-VIS Spectrophotometer</a>, <a href="#tisapphire-oscillator-and-opo">Ti:Sapphire</a>, <a href="#ndyag-laser">Nd:YAG laser</a>.</p>
+
+<p><strong>Industrial and outside academic users should directly contact <a href="mailto:s.kena-cohen@polymtl.ca">Prof. Kéna-Cohen</a> for access details.</strong></p>
+
+<h3 id="thermal-evaporator">Thermal Evaporator</h3>
+<p>Capable of depositing a wide range of materials (organics, Au, Cu, Cr, Al, Ag, dielectrics), with up to 3 simultaneous sources on up to 6” wafers.</p>
+<figure>
+  <p><img src="/images/infrapic/Evaporator 1.jpg" width="60%" />
+<img src="/images/infrapic/Evaporator 2.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="glovebox">Glovebox</h3>
+<figure>
+  <p><img src="/images/infrapic/Glovebox.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="uhv-deposition-cluster">UHV Deposition Cluster</h3>
+<p>Deposition of organics by thermal evaporation, dielectrics and metals via thermal evaporation and RF sputtering (with the possibility of flowing oxygen during either), substrate temperature control, and ultraviolet photoelectron spectroscopy (UPS). Maximum substrate dimensions are 2” wafers.</p>
+<figure>
+  <p><img src="/images/infrapic/uhvcluster.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="gradient-sublimation-purification-setup">Gradient sublimation purification setup</h3>
+<figure>
+  <p><img src="/images/infrapic/purification.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="synthesis-hood">Synthesis hood</h3>
+<figure>
+  <p><img src="/images/infrapic/hood.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="langmuir-blodgett">Langmuir-Blodgett</h3>
+<figure>
+  <p><img src="/images/infrapic/langmuir.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="ultrafast-spectroscopy">Ultrafast spectroscopy</h3>
+<p>10W femtosecond Yb:KGW amplifier with optical parametric amplifier, pulse compressor, transient absorption spectroscopy and microscopy, electronically delayed pump-probe, time-resolved photoluminescence (streak camera), spectrally tunable Z-scan and cryostat.</p>
+<figure>
+  <p><img src="/images/infrapic/ultrafast.jpg" width="60%" /></p>
+</figure>
+<figure>
+  <p><img src="/images/infrapic/cryostat.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="microscope">Microscope</h3>
+<figure>
+  <p><img src="/images/infrapic/Microscope.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="oled-testing-setup">OLED testing setup</h3>
+<figure>
+  <p><img src="/images/infrapic/oled.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="solar-cell-testing-setup">Solar cell testing setup</h3>
+<figure>
+  <p><img src="/images/infrapic/Solar cell.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="tisapphire-oscillator-and-opo">Ti:Sapphire oscillator and OPO</h3>
+<figure>
+  <p><img src="/images/infrapic/TiSaph.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="ndyag-laser">Nd:YAG laser</h3>
+<figure>
+  <p><img src="/images/infrapic/NdYag.jpg" width="60%" /></p>
+</figure>
+
+<h3 id="spectrophotometer">Spectrophotometer</h3>
+<figure>
+  <p><img src="/images/infrapic/perkinelmer.jpg" width="60%" /></p>
+</figure>
+:ET

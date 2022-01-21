@@ -30,17 +30,17 @@ and members of two FRQNT strategic groups:
    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intriq.png" style="width: 180px">
    </div>
 </div>
-These provide a stimulating research environment, with many opportunities for networking, additional funding, internships, and regular conferences and student-led winter and summer schools.
+These provide a stimulating research environment, with many opportunities for networking, additional funding, internships, regular conferences, and student-led winter and summer schools.
 
 ### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:s.kena-cohen@polymtl.ca). State briefly why you are interested and attach a CV and an undergraduate transcript. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
+If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:s.kena-cohen@polymtl.ca). State briefly why you are interested and attach a CV and an undergraduate transcript. No need for a separate cover letter or certificates. **Important**: please include _"PhD Application"_ or _"Postdoc Application"_ in the subject line.
 
 ### Fellowship opportunities ###
-Canada and Québec have generous fellowship programs for PhD students and postdocs. The information can be found [here](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp) and [here](https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiants-etrangers-pbeee/) for students and [here](https://banting.fellowships-bourses.gc.ca/en/app-dem_overview-apercu.html) and [here](https://frq.gouv.qc.ca/en/program/merit-scholarship-program-for-foreign-students-pbeee/) for postdocs. **If you with to apply for a fellowship, please [contact me](mailto:s.kena-cohen@polymtl.ca) before the end June at the latest**, because time is required to prepare a package and you must (in many cases) be internally selected from the institutional quota.
+Canada and Québec have generous fellowship programs for PhD students and postdocs. The information can be found [here](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp) and [here](https://frq.gouv.qc.ca/programme/bourses-dexcellence-pour-etudiants-etrangers-pbeee/) for PhD students and [here](https://banting.fellowships-bourses.gc.ca/en/app-dem_overview-apercu.html) and [here](https://frq.gouv.qc.ca/en/program/merit-scholarship-program-for-foreign-students-pbeee/) for postdocs. **Important: if you wish to apply for a fellowship, please [contact me](mailto:s.kena-cohen@polymtl.ca) before the end June at the latest**, because time is required to prepare a package and you must (in many cases) be internally selected from the institutional quota.
 Specific partnership programs exist for students from Brazil, China, India, Israel, Mexico and Wallonia.
 
 ### MScA degrees and summer internships for Polytechnique Montréal students
 Send me an [email](mailto:s.kena-cohen@polymtl.ca) with your undergraduate transcript and we discuss in person!
 
-### Master projects for international students
+### M1, M2 projects for international students
 We often host international Master project students, but this is only possible when your home institution or country can provide funding.
