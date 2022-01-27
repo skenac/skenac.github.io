@@ -1,4 +1,4 @@
-I"+<h1 id="pictures">Pictures</h1>
+I"�<h1 id="pictures">Pictures</h1>
 
 <h4 id="gallery">Gallery</h4>
 <p>(Right-click <em>‘view image’</em> to see a larger image.)</p>
@@ -10,12 +10,20 @@
   </div>
 
   <div class="col-sm-4 clearfix">
+    <p><img src="/images/picpic/Gallery/orfordhike.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-4 clearfix">
     <p><img src="/images/picpic/Gallery/Fabio website.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
   <div class="col-sm-4 clearfix">
     <p><img src="/images/picpic/Gallery/bbq.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-4 clearfix">
     <p><img src="/images/picpic/Gallery/rafting.jpg" class="img-responsive" width="95%" style="float: left" /></p>

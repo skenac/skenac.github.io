@@ -60,7 +60,7 @@ Deposition of organics by thermal evaporation, dielectrics and metals via therma
 
 ### Microscope
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/Microscope.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/microscopeclean.jpg" width="60%">
 </figure>
 
 ### OLED testing setup
