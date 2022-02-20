@@ -18,7 +18,7 @@ permalink: /vacancies
 * Contribute to projects outside of your own and learn from collaborators and industry partners working across a wide range of topics
 * Benefit from mentoring, training and professional development opportunities through [CREATE](#create) training programs
 * Participate in regular conferences, networking events, summer and winter schools through FRQNT [Strategic Groups](#strategic-groups)
-* Take classes at Polytechnique Montréal, Université de Montréal, McGill University, Sherbrooke University all while leiving in the [world's best student city](https://www.topuniversities.com/student-info/university-news/montreal-named-worlds-best-student-city)
+* Take classes at Polytechnique Montréal, Université de Montréal, McGill University, Sherbrooke University all while living in the [world's best student city](https://www.topuniversities.com/student-info/university-news/montreal-named-worlds-best-student-city)
 
 ### Equity, diversity and inclusion
 Our group is committed to equity and inclusion and values diversity, open-mindedness and collaboration. We encourage all qualified candidates to apply, especially women, Indigenous persons, racialized persons/visible minorities, LGBTQIA2+ folx and persons with disabilities. Accommodations can be provided at Polytechnique Montréal.
