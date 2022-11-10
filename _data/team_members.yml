@@ -15,6 +15,23 @@
   education1: PhD with <a href="https://physics.gatech.edu/user/carlos-silva">Carlos Silva</a>, Georgia Tech
   education2: B.S. Université de Montréal
 
+- name: Christian Imperiale
+  photo: christian.jpg
+  info: Postdoc, started Oct 2022
+  email: felix.thouin@polymtl.ca
+  number_educ: 2
+  education1: PhD with Mark Wilson, University of Toronto
+  education2: B.Sc University of Ottawa
+
+- name: Tomohiro Ishii
+  photo: tomohiro.jpg
+  info: Postdoc and JSPS Fellow
+  email: ishii@adachilab.com
+  number_educ: 3
+  education1: BSc Aoyama University
+  education2: MSc Kyoto University
+  education3: PhD with <a href="http://www.cstf.kyushu-u.ac.jp/~adachilab/lab/">Chihaya Adachi</a>, Kyushu University
+
 - name: Ashutosh Patri
   photo: patri.jpg
   info: PhD Student, started Winter 2018
@@ -79,16 +96,6 @@
   number_educ: 2
   education1: BSc Ecole Polytechnique (Paris)
   education2: QSciTech participant
-
-- name: Tomohiro Ishii
-  photo: tomohiro.jpg
-  info: Visitor/collaborator, currently PhD student in the <a href="http://www.cstf.kyushu-u.ac.jp/~adachilab/lab/">Adachi Lab</a>
-  email: ishii@adachilab.com
-  number_educ: 2
-  education1: BSc Aoyama University
-  education2: MSc Kyoto University
-  education3: PhD Kyushu University
-
 
 - name: "This could be you !"
   photo: nophoto.jpg
