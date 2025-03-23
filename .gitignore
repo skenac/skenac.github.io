@@ -1,4 +1,6 @@
 _site
-# Editor & system files
 .vscode/
 .DS_Store
+/vendor/
+/.bundle/
+/.DS_Store
