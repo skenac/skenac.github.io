@@ -1,0 +1,18 @@
+current directory: /Users/skenac/Library/CloudStorage/GoogleDrive-skenac@gmail.com/My Drive/Polytechnique/website/skenac.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/skenac/Library/CloudStorage/GoogleDrive-skenac@gmail.com/My Drive/Polytechnique/website/skenac.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250323-26499-a9ejhx sitelibdir\=./.gem.20250323-26499-a9ejhx clean
+
+current directory: /Users/skenac/Library/CloudStorage/GoogleDrive-skenac@gmail.com/My Drive/Polytechnique/website/skenac.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250323-26499-a9ejhx sitelibdir\=./.gem.20250323-26499-a9ejhx
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/skenac/Library/CloudStorage/GoogleDrive-skenac@gmail.com/My Drive/Polytechnique/website/skenac.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250323-26499-a9ejhx sitelibdir\=./.gem.20250323-26499-a9ejhx install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250323-26499-a9ejhx/racc
+
+current directory: /Users/skenac/Library/CloudStorage/GoogleDrive-skenac@gmail.com/My Drive/Polytechnique/website/skenac.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250323-26499-a9ejhx sitelibdir\=./.gem.20250323-26499-a9ejhx clean
