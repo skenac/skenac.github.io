@@ -63,16 +63,6 @@ Deposition of organics by thermal evaporation, dielectrics and metals via therma
 <img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/microscopeclean.jpg" width="60%">
 </figure>
 
-### OLED testing setup
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/oled.jpg" width="60%">
-</figure>
-
-### Solar cell testing setup
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/Solar cell.jpg" width="60%">
-</figure>
-
 ### Ti:Sapphire oscillator and OPO
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/TiSaph.jpg" width="60%">
@@ -86,4 +76,19 @@ Deposition of organics by thermal evaporation, dielectrics and metals via therma
 ### Spectrophotometer
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/perkinelmer.jpg" width="60%">
+</figure>
+
+### FTIR with home-build IR microscope
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/FTIR.jpg" width="60%">
+</figure>
+
+### OLED testing setup
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/oled.jpg" width="60%">
+</figure>
+
+### Solar cell testing setup
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/infrapic/Solar cell.jpg" width="60%">
 </figure>

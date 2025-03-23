@@ -6,9 +6,9 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+### Open positions
 
-**We currently have an immediate opening for a postdoctoral researcher [here]({{ site.url }}/downloads/Postdoc-Announcement.pdf) and 2 openings for PhD students with a Fall 2023 start date [here]({{ site.url }}/downloads/PhD-Announcement.pdf).**
+#### **We currently have 2 immediate openings for postdoctoral researchers. Details can be found [here]({{ site.url }}/downloads/Postdoc-Announcement.pdf). These will remain opened until filled.**
 
 **In the Light-Matter group, you will:**
 * Be surrounded by amazing colleagues in an inclusive and multicultural environment
