@@ -7,31 +7,19 @@
   education2: PhD Princeton University (and visiting scholar at the University of Michigan) with <a href="http://websites.umich.edu/~ocm/People%20pages/stevefor.html">Stephen R Forrest</a>
   education3: Postdoc and <a href="https://www.imperial.ac.uk/research-fellowships/icrf/">Junior Research Fellow</a> at Imperial College London with <a href="https://www.hybridplasmonics.org">Stefan A. Maier</a> (now @LMU) and Donal DC Bradley (now @KAUST)
 
-- name: Megha Jain
-  photo: megha.jpg
-  info: Postdoc, started June 2023
-  email: megha.jain@polymtl.ca
-  number_educ: 2
-  education1: Postdoc Chungbuk National University (Korea) in Ultrafast THZ-IR Spectroscopy Lab 
-  education2: PhD Punjabi University
+- name: Priya
+  photo: nophoto.jpg
+  info: Postdoc, started October 2024
+  email: priya.priya@polymtl.ca
+  number_educ: 1
+  education1: Postdoc CNRS, Quantum Bridge Technology
 
-- name: Tomohiro Ishii
-  photo: tomohiro.jpg
-  info: Postdoc and JSPS Fellow
-  email: ishii@adachilab.com
-  number_educ: 3
-  education1: BSc Aoyama University
-  education2: MSc Kyoto University
-  education3: PhD with <a href="http://www.cstf.kyushu-u.ac.jp/~adachilab/lab/">Chihaya Adachi</a>, Kyushu University
-
-- name: Ashutosh Patri
-  photo: patri.jpg
-  info: PhD Student, started Winter 2018
-  email: ashutosh.patri@polymtl.ca
-  number_educ: 2
-  education1: BS MS Dual Degree in Mining National Institute of Technology Rourkela
-  education2: Visiting MS in Electrical Engineering, IIT Mumbai
-  education3:
+- name: Abhay Anand
+  photo: abhay.jpg
+  info: Postdoc
+  email: abhay-anand.vadakkayil@polymtl.ca
+  number_educ: 1
+  education1: PhD Physics, IIT Bombay
 
 - name: Alexandre Malinge
   photo: malinge.jpg
@@ -63,15 +51,36 @@
   education3:
   education4:
 
+- name: Omid Hosseinzadeh
+  photo: omid.jpg
+  info: PhD Student, started Summer 2024
+  email: omid.hosseinzadeh@etud.polymtl.ca
+  number_educ: 2
+  education1: MSc Electrical Engineering, University of Tehran (Iran)
+  education2: BSc Electrical Engineering, Ifshan University of Technology (Iran)
+
+- name: Arnaud Petit
+  photo: arnaud.jpg
+  info: MSc-PhD Student, started Summer 2024
+  email: omid.hosseinzadeh@etud.polymtl.ca
+  number_educ: 2
+  education1: BSc Engineering Physics, Polytechnique Montréal
+  education2: NSERC CGS-M Scholarship
+  
+- name: Laure Sène
+  photo: laure.jpg
+  info: PhD Student, started Fall 2024
+  email: laure.sene@polymtl.ca
+  number_educ: 1
+  education1: MSc, Telecom Physique Strasbourg (France)
+
 - name: Pierre-Luc Thériault
   photo: pierreluc.png
   info: PhD Student, started September 2021
   email: pierre-luc.theriault@polymtl.ca
   number_educ: 2
   education1: BSc, Polytechnique Montréal
-  education2: Trottier Energy Scholarship
-  education3: CGS and FRQNT Scholarships
-  education4:
+  education2: 
 
 - name: Julien Brodeur
   photo: photo_JB.jpg
@@ -81,13 +90,22 @@
   education1: BSc and MSc, Polytechnique Montréal
   education2: NSERC Alexander Graham Bell Fellowship
 
-- name: Soufiane Kaghad
-  photo: soufiane.png
-  info: MSc Double Diploma
-  email: soufiane.kaghad@polymtl.ca
-  number_educ: 2
-  education1: BSc Ecole Polytechnique (Paris)
-  education2: QSciTech participant
+- name: Sarah Ameur
+  photo: nophoto.jpg
+  info: MSc Student, started Fall 2025
+  email: sarah.ameur@etud.polymtl.ca
+  number_educ: 1
+  education1: BS Physics, McGill University
+  education2: 
+  education3:
+
+- name: Gabriel Juteau
+  photo: nophoto.jpg
+  info: MSc Student, Started Summer 2024
+  email: gabriel.juteau@etud.polymtl.ca
+  number_educ: 1
+  education1: BEng Eng. Phys., Polytechnique Montreal
+  education2:
 
 - name: "This could be you !"
   photo: nophoto.jpg

@@ -27,27 +27,36 @@ The group is based at Polytechnique Montréal, one of Canada's top engineering r
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">        
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CavityImage.jpg" style="height:250px" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/presse1.jpg" style="height:250px" alt="Slide 1" />
+        </div>
+        <div class="item">        
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/presse2.jpg" style="height:250px" alt="Slide 2" />
+        </div>
+        <div class="item">        
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CavityImage.jpg" style="height:250px" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo_poly_oled.png" style="height:250px" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logo_poly_oled.png" style="height:250px" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Anthracene.png" style="height:250px" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Anthracene.png" style="height:250px" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/malinge.jpg" style="height:250px" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/malinge.jpg" style="height:250px" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bbq.jpg" style="height:250px" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bbq.jpg" style="height:250px" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/superfluid_press.png" style="height:250px" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/superfluid_press.png" style="height:250px" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
