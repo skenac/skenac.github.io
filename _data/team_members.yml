@@ -7,8 +7,17 @@
   education2: PhD Princeton University (and visiting scholar at the University of Michigan) with <a href="http://websites.umich.edu/~ocm/People%20pages/stevefor.html">Stephen R Forrest</a>
   education3: Postdoc and <a href="https://www.imperial.ac.uk/research-fellowships/icrf/">Junior Research Fellow</a> at Imperial College London with <a href="https://www.hybridplasmonics.org">Stefan A. Maier</a> (now @LMU) and Donal DC Bradley (now @KAUST)
 
+- name: Galina Nemova
+  photo: galina.jpg
+  info: Research Associate, started May 2025
+  email: galina.nemova@polymtl.ca
+  number_educ: 3
+  education1: Quantamole Coordinator
+  education2: PhD, Moscow Institute of Physics
+  education3: Expertise in laser cooling, fiber amplifiers and nonlinear optics
+
 - name: Priya
-  photo: nophoto.jpg
+  photo: priya.jpg
   info: Postdoc, started October 2024
   email: priya.priya@polymtl.ca
   number_educ: 1
@@ -57,12 +66,12 @@
   email: omid.hosseinzadeh@etud.polymtl.ca
   number_educ: 2
   education1: MSc Electrical Engineering, University of Tehran (Iran)
-  education2: BSc Electrical Engineering, Ifshan University of Technology (Iran)
+  education2: BSc Electrical Engineering, Isfahan University of Technology (Iran)
 
 - name: Arnaud Petit
   photo: arnaud.jpg
   info: MSc-PhD Student, started Summer 2024
-  email: omid.hosseinzadeh@etud.polymtl.ca
+  email: arnaud.petitdeh@etud.polymtl.ca
   number_educ: 2
   education1: BSc Engineering Physics, Polytechnique Montréal
   education2: NSERC CGS-M Scholarship
@@ -100,7 +109,7 @@
   education3:
 
 - name: Gabriel Juteau
-  photo: nophoto.jpg
+  photo: gabriel.jpg
   info: MSc Student, Started Summer 2024
   email: gabriel.juteau@etud.polymtl.ca
   number_educ: 1
