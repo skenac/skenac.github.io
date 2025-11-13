@@ -71,9 +71,9 @@
 - name: Arnaud Petit
   photo: arnaud.jpg
   info: MSc-PhD Student, started Summer 2024
-  email: arnaud.petitdeh@etud.polymtl.ca
+  email: arnaud.petit@etud.polymtl.ca
   number_educ: 2
-  education1: BSc Engineering Physics, Polytechnique Montréal
+  education1: BEng, Polytechnique Montréal
   education2: NSERC CGS-M Scholarship
   
 - name: Laure Sène
@@ -85,10 +85,10 @@
 
 - name: Pierre-Luc Thériault
   photo: pierreluc.png
-  info: PhD Student, started September 2021
+  info: MSc-PhD Student, started September 2021
   email: pierre-luc.theriault@polymtl.ca
   number_educ: 2
-  education1: BSc, Polytechnique Montréal
+  education1: BEng, Polytechnique Montréal
   education2: 
 
 - name: Julien Brodeur
@@ -96,15 +96,15 @@
   info: PhD Student
   email: julien.brodeur@polymtl.ca
   number_educ: 2
-  education1: BSc and MSc, Polytechnique Montréal
+  education1: BEng and MSc, Polytechnique Montréal
   education2: NSERC Alexander Graham Bell Fellowship
 
 - name: Sarah Ameur
-  photo: nophoto.jpg
+  photo: sarah.jpg
   info: MSc Student, started Fall 2025
   email: sarah.ameur@etud.polymtl.ca
   number_educ: 1
-  education1: BS Physics, McGill University
+  education1: BS Physics and Computer Science, McGill University
   education2: 
   education3:
 
@@ -113,7 +113,7 @@
   info: MSc Student, Started Summer 2024
   email: gabriel.juteau@etud.polymtl.ca
   number_educ: 1
-  education1: BEng Eng. Phys., Polytechnique Montreal
+  education1: BEng, Polytechnique Montreal
   education2:
 
 - name: "This could be you !"
